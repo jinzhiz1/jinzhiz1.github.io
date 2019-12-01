@@ -1,10 +1,10 @@
 ---
-title: Old-path-white-clouds
+title: Old-path-white-clouds (故道白云)
 date: 2019-10-07 19:52:08
-tags:
+tags: [literature]
+categories: [Reading]
+description: TODO:Candice
 ---
-
-# 【读书】故道白云
 
 #### 这是第一次读佛法相关的书籍。之前总觉得佛法是一个很玄的东西，可能是已经习惯了没有信仰的生活着，也可能是作为一个学理科的程序员，习惯了想要用逻辑和科学解释世界上的一切事物，所以从没想过要去真正了解一个宗教的信仰是什么。开始想要读这本书是因为在豆瓣上看到有人说它有一种很神奇的功效，可以让人变得心境平和安宁，于是便好奇地想要尝试一下。
 
