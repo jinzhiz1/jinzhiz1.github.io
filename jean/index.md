@@ -3,4 +3,8 @@ title: jean
 date: 2019-11-30 23:20:38
 ---
 
-<a href='https://photos.google.com/share/AF1QipP7CfxPVxieTgFQZ3OMcO0AIw5wt8TFq_egsO31T26jQOGOQfK-LRIev02iAK1Y8g?key=UGV1STJ0enJWZG9xSlc1TTlDTUZDbjFVTnVMbGR3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/ejWU2nfQbr10HLFwyxQ3jG8z6B6_h7nLsStjgrcntfN8bL5dAgi1nxinwxELBDq2579OUv0NME6JYzUrhEVmjE-bRlgAOisBMayxTKEvRSRpNofKosV6TSx3GMqIVRZjSj3PHIlnJA=w2400' /></a>
+# 技术类
+机器学习(Machine Learning)是在没有准确的程序下给机器学习能力的一个领域。机器学习有监督学习(Supervised learning)和非监督学习(Unsupervised learning)。和机器学习同类型的还有强化学习(Reinforcement Learning)和深度学习(Deep Learning).
+
+Andrew Ng Machine Learning 笔记：
+1. [week1 and week 2: linear regression](http://jinzhiz1.github.io/2019/12/01/linear-regression/)
