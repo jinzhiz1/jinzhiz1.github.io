@@ -1,12 +1,11 @@
 ---
-title: Winter-of-the-world
-date: 2019-10-07 19:39:25
-tags:
+title: Winter-of-the-world (世界的凛冬)
+date: 2019-05-07 19:39:25
+tags: [literature]
+categories: [Reading]
+description: TODO:Candice
 ---
 
-# 【读书】世界的凛冬
-
-**日期：05/2019**
 **评分：⭐️⭐️⭐️**
 
 * 然而所有这一切都很刻意。希特勒的恨意很像真的，但最后的爆发，是为了他们这群人自身的利益而进行的一场表演。希特勒是个演员，可以把真实感情放大给观众看。
